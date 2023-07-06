@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MinimumJumpsArray",
+            "request": "launch",
+            "mainClass": "MinimumJumpsArray",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "MinimumPartitioning",
+            "request": "launch",
+            "mainClass": "MinimumPartitioning",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "MatrixChainMultiplicationRecursion",
+            "request": "launch",
+            "mainClass": "MatrixChainMultiplicationRecursion",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "MountainsAndVslleysMountainRanges",
+            "request": "launch",
+            "mainClass": "MountainsAndVslleysMountainRanges",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "CountingBinarytree",
+            "request": "launch",
+            "mainClass": "CountingBinarytree",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "Catalan",
+            "request": "launch",
+            "mainClass": "Catalan",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "WildCardPatern",
+            "request": "launch",
+            "mainClass": "WildCardPatern",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "IncreasingLCS",
+            "request": "launch",
+            "mainClass": "IncreasingLCS",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubstring",
+            "request": "launch",
+            "mainClass": "LongestCommonSubstring",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "LCSTabulation",
+            "request": "launch",
+            "mainClass": "LCSTabulation",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "LCSMemoization",
+            "request": "launch",
+            "mainClass": "LCSMemoization",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubSequence",
+            "request": "launch",
+            "mainClass": "LongestCommonSubSequence",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "RodcuttingLength",
+            "request": "launch",
+            "mainClass": "RodcuttingLength",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ClimbingStairs",
+            "request": "launch",
+            "mainClass": "ClimbingStairs",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "CoinChangeProblem",
+            "request": "launch",
+            "mainClass": "CoinChangeProblem",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "FabonacciNo",
+            "request": "launch",
+            "mainClass": "FabonacciNo",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack01Recursion",
+            "request": "launch",
+            "mainClass": "Knapsack01Recursion",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "KnapsackMemoization",
+            "request": "launch",
+            "mainClass": "KnapsackMemoization",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "KnapsackTabulation",
+            "request": "launch",
+            "mainClass": "KnapsackTabulation",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "TargetSumSubSet",
+            "request": "launch",
+            "mainClass": "TargetSumSubSet",
+            "projectName": "DynamicProgramming_eea93499"
+        },
+        {
+            "type": "java",
+            "name": "UnboundedKnapsack",
+            "request": "launch",
+            "mainClass": "UnboundedKnapsack",
+            "projectName": "DynamicProgramming_eea93499"
+        }
+    ]
+}
